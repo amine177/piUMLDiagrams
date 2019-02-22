@@ -19918,7 +19918,7 @@
 							"width": 761,
 							"height": 313,
 							"autoResize": false,
-							"text": "Guys please if you add an attribute increase the minor version 0.0.1 becomes 0.0.2\nif you are adding a class increase the middle version 0.0.1 becomes 0.1.1\nif you are changing the structure between tow classes or more increase the major version 0.0.1 becomes 1.0.1\n############\n\ncurrent vesion 1.0.1 - Edited by Amri - 02.20.2019\ncurrent version 1.0.2 - Edited by Amri - 02.20.2019 - 11:53 Fixed the attributes of ReactionPost and ReactionComment",
+							"text": "Guys please if you add an attribute increase the minor version 0.0.1 becomes 0.0.2\nif you are adding a class increase the middle version 0.0.1 becomes 0.1.1\nif you are changing the structure between tow classes or more increase the major version 0.0.1 becomes 1.0.1\n############\n\ncurrent vesion 1.0.1 - Edited by Amri - 02.20.2019\ncurrent version 1.0.2 - Edited by Amri - 02.20.2019 - 11:53 Fixed the attributes of ReactionPost and ReactionComment\ntesting a change to be pushed to github - AMRI 02.22 - 19:06",
 							"wordWrap": true
 						}
 					]
